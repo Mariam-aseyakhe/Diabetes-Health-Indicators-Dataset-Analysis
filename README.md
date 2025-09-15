@@ -6,5 +6,5 @@ SQL analysis of the Diabetes Health Indicators dataset for visualization in Powe
 - Description: This dataset includes survey responses with variables such as age, gender, BMI, smoking, physical activity, and health indicators.
 
 ## Repository Structure
-SQL_Script 
+SQL_Script
 Power BI Report
