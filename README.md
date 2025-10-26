@@ -4,7 +4,7 @@
 Diabetes is one of the most widespread and challenging chronic diseases globally, affecting hundreds of millions of people. Identification of risk factors plays a crucial role in prevention of diabetes.
 In this project, I analyze the Diabetes Health Indicators Dataset to uncover patterns and risk factors associated with diabetes. Using SQL for data exploration and Power BI for data visualization, the project aims to provide a clear and data driven understanding of how demographic, behavioral, and health conditions contribute to diabetes risk. The insights generated contribute to healthcare strategies and can support future research in chronic disease prevention.
 
-The SQL queries used to inspect and clean the data for this analysis can be found here [SQL_Script.sql].
+The SQL queries used to inspect and clean the data for this analysis can be found here [(https://github.com/Mariam-aseyakhe/Diabetes-Health-Indicators-Dataset-Analysis/blob/0528ddb6cc5eb21174a83382c782a34721bb467e/SQL_Script.sql)].
 
 The Power BI dashboards can be found here [link].
 
