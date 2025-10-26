@@ -109,7 +109,9 @@ Physical activity plays a crucial role in managing diabetes. Approximately 22,00
 # 📌Recommendations
 
 Promote lifestyle interventions: Encourage programs that focus on weight control, balanced nutrition, physical activity, and smoking reduction.
+
 Target high risk age groups: Healthcare strategies, awareness campaigns, and early interventions should prioritize these age categories.
+
 Address socio-economic gaps: Policymakers and health organizations should invest in accessible health education and community prevention programs.
 
 # 🔗 Data Source
