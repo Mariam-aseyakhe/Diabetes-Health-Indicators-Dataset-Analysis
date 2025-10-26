@@ -38,7 +38,7 @@ This analysis shows that diabetes is more than a blood sugar level it is a condi
 
 # ✅Insights and Deep Dive
 
-Demographics & Socioeconomic factors:
+🔺Demographics & Socioeconomic factors:
 
 <img width="720" height="406" alt="image" src="https://github.com/user-attachments/assets/34c7d5f9-0cf0-4f15-9197-b457f8edf2ba" />
 
@@ -58,7 +58,7 @@ Income:
 
 While it may seem contradictory but higher income groups in the United States with earnings over $75,000, show a higher prevalence of diabetes. This trend can be attributed to better access to healthcare services, allowing for earlier diagnosis and management. Additionally, lifestyle factors associated with higher income may also contribute to this pattern.
 
-Health status & conditions:
+🔺Health status & conditions:
 
 <img width="720" height="406" alt="image" src="https://github.com/user-attachments/assets/95ae8216-4fbd-4fee-8f83-2f66699eab3a" />
 
@@ -82,7 +82,7 @@ Mentally Unhealthy Days:
 
 Elevated blood sugar levels in individuals with diabetes can significantly impact their energy levels, often leading to feelings of fatigue and reduced motivation. This can contribute to mental health challenges such as depression and stress.
 
-Lifestyle & behaviors:
+🔺Lifestyle & behaviors:
 
 <img width="720" height="406" alt="image" src="https://github.com/user-attachments/assets/a724999c-9766-48a0-926d-f0f544b633da" />
 
