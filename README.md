@@ -14,16 +14,27 @@ In this analysis i used the Diabetes Health Indicators Dataset from Kaggle, whic
 Key variables include:
 
 Diabetes_012: No diabetes, Prediabetes, Diabetes
+
 HighBP: High blood pressure (0/1)
+
 HighCol: High cholesterol (0/1)
+
 BMI: Body Mass Index
+
 Stroke: Ever had a stroke
+
 Smoker: Ever smoked 100 cigarettes (0/1)
+
 PhysActivity: Physical activity in past 30 days
+
 Fruits: Consume Fruit 1 or more times per day
+
 Veggies: Consume Vegetables 1 or more times per day
+
 Age: Coded from 1 (18–24) to 13 (80+)
+
 Income: 1–8 1 = less than $10,000 5 = less than $35,000 8 = $75,000 or more
+
 Education: Education level scale from 1–6
 
 Power BI visualisations are structured on three categories:
