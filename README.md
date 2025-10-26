@@ -6,7 +6,7 @@ In this project, I analyze the Diabetes Health Indicators Dataset to uncover pat
 
 The SQL queries used to inspect and clean the data for this analysis can be found here [(https://github.com/Mariam-aseyakhe/Diabetes-Health-Indicators-Dataset-Analysis/blob/0528ddb6cc5eb21174a83382c782a34721bb467e/SQL_Script.sql)].
 
-The Power BI dashboards can be found here [link].
+The Power BI dashboards can be found here [(https://github.com/Mariam-aseyakhe/Diabetes-Health-Indicators-Dataset-Analysis/blob/08bfd57ab1f9d5b5d3367f5ad630634ecffc7cb4/Diabetes_Power_BI_Report.pdf)].
 
 # 💡Data Structure and Overview
 In this analysis i used the Diabetes Health Indicators Dataset from Kaggle, which contains 253,680 survey responses to the CDC’s Behavioral Risk Factor Surveillance System (BRFSS2015).
